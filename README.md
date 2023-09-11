@@ -1,7 +1,8 @@
 # Armstrong Topology Solutions
 
-ℹ️ I'm looking for someone to maintain this respository for me ℹ️
 
-If you're intrested, please DM on twitter. Your name and solutions will be accredited. If we could get to a complete state, I'd like to move toward publishing the solutions.
-
-⚠️ The code base is ahead of the PDF ⚠️
+> Even with my sparse sampling of the problem set I've found enough inaccuracies in this solution manual that I generally distrust it.
+> I'm creating this fork with my opinions in `\red{}`.
+> My sources are diffuse over the internet & talking with people.
+> So far this has mostly meant `##math` on Libera.chat and math.stackexchange.com
+> - Christian Chapman, 9/10/2023
